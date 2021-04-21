@@ -31,7 +31,7 @@ body{
     margin-left: 300px;
 }
 .pv-header-nav{
-    padding-left: 40px;
+    
     border-top: 2px solid #a27f61;
     border-bottom: 2px solid #a27f61;
 }
@@ -52,6 +52,7 @@ body{
 .pv-header-nav-list{
     list-style: none;
     display: flex;
+justify-content: space-around;
 }
 .pv-header-nav-list li a{
     text-decoration: none;
